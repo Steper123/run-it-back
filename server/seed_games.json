@@ -1,0 +1,23 @@
+[
+  {
+    "locationId": 1,
+    "playersNeeded": 2,
+    "playersIn": 4,
+    "startDate": "July 3, 2020",
+    "startTime": "12:00"
+  },
+  {
+    "locationId": 1,
+    "playersNeeded": 3,
+    "playersIn": 7,
+    "startDate": "July 3, 2020",
+    "startTime": "12:00"
+  },
+  {
+    "locationId": 2,
+    "playersNeeded": 1,
+    "playersIn": 3,
+    "startDate": "July 3, 2020",
+    "startTime": "12:00"
+  }
+]

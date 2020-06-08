@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Reggie Miller",
+    "googleId": "1234",
+    "primaryPos": 2,
+    "height": 76,
+    "weight": 190,
+    "birthday": "January 1, 1980",
+    "primLocation": "Indianapolis, IN",
+    "loggedIn": false,
+    "isAdmin": false,
+    "currGameID": 0
+
+
+  },
+  {
+    "name": "Carmelo Anthony",
+    "googleId": "1235",
+    "primaryPos": 3,
+    "height": 79,
+    "weight": 210,
+    "birthday": "January 2, 1980",
+    "primLocation": "New York, NY",
+    "loggedIn": false,
+    "isAdmin": false,
+    "currGameID": 0
+
+
+  },
+  {
+    "name": "Stephon Curry",
+    "googleId": "1236",
+    "primaryPos": 1,
+    "height": 72,
+    "weight": 185,
+    "birthday": "January 3, 1980",
+    "primLocation": "Los Angeles, CA",
+    "loggedIn": false,
+    "isAdmin": false,
+    "currGameID": 0
+
+
+  },
+  {
+    "name": "Eddie Curry",
+    "googleId": "1237",
+    "primaryPos": 5,
+    "height": 82,
+    "weight": 230,
+    "birthday": "January 4, 1980",
+    "primLocation": "Scranton, PA",
+    "loggedIn": false,
+    "isAdmin": false,
+    "currGameID": 0
+
+
+  },
+  {
+    "name": "Dwight Howard",
+    "googleId": "1238",
+    "primaryPos": 5,
+    "height": 82,
+    "weight": 220,
+    "birthday": "January 5, 1981",
+    "primLocation": "Orlando, FL",
+    "loggedIn": false,
+    "isAdmin": false,
+    "currGameID": 0
+
+
+  }
+]

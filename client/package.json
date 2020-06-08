@@ -1,0 +1,58 @@
+{
+  "name": "run-it-back-client",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src"
+  },
+  "keywords": [],
+  "contributors": [
+    "Stephan Perreault <sperreault@middlebury.edu>"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "exceljs": "^3.9.0",
+    "react": "^16.13.0",
+    "react-data-table-component": "^6.9.1",
+    "react-dom": "^16.13.0",
+    "react-google-login": "^5.1.14",
+    "react-native": "^0.62.2",
+    "react-native-input-spinner": "^1.2.10",
+    "react-native-numeric-input": "^1.8.3",
+    "react-scripts": "3.4.0",
+    "react-table-component": "^0.9.8",
+    "reactstrap": "^8.4.1"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint-config-prettier": "^6.10.0",
+    "jest-enzyme": "^7.1.2",
+    "react-test-renderer": "^16.13.0",
+    "styled-components": "^5.1.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "prettier"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
